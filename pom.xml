@@ -62,7 +62,7 @@
         </pluginRepository>
     </pluginRepositories>
     <properties>
-        <changelist>999999-SNAPSHOT</changelist>
+        <changelist>1010.1-longer-grace-period</changelist>
         <jenkins.version>2.361.4</jenkins.version>
         <useBeta>true</useBeta>
         <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
